@@ -1,6 +1,7 @@
 # 🚀 Qaisar Enterprise VMDR
 
 ### Vulnerability Management, Risk Prioritization & Endpoint Security Platform
+![Qaisar Enterprise VMDR - Executive Security Dashboard](https://github.com/qaisarafridi/Qaisar-Enterprise-VMDR/blob/main/ccc33.JPG?raw=true)
 
 **Qaisar Enterprise VMDR** is a cybersecurity project designed to centralize enterprise asset visibility, vulnerability tracking, contextual risk prioritization, and remediation management through an executive security dashboard.
 
